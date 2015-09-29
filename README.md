@@ -1,0 +1,2 @@
+# theMidnightProject
+My team and I created a program to help Multiple Sclerosis patients keep log everyday symptoms. Created a questionnaire user interface using PyQt to collect patient symptom data. Utilized SQL with Microsoft Access to build a database to store data from UI. Used aggregate functions to manipulate and process data into linear models. Processed data was exported to Excel to graphically represent the data and perform statistical analysis. When the algorithm detects a decline in patients’ health, an email is sent to the patient and caretakers
